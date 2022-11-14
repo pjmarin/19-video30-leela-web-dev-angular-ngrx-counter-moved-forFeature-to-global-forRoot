@@ -1,0 +1,1 @@
+# 19-video30-leela-web-dev-angular-ngrx-counter-moved-forFeature-to-global-forRoot
